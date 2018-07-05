@@ -1,0 +1,172 @@
+.div1{
+	background-color: black;
+	height: 30px;
+		
+}
+.li1{
+	color: white;
+	display: inline;
+	float: right;
+	margin: 5px;
+}
+.li1 a{
+	color: white;
+}
+.div2{
+	background-color: purple;
+	height: 30px;
+	width: 50%;
+	margin: auto;
+}
+.p1{
+	color: white;
+	text-align: center;
+}
+    /*Second div*/
+
+.fandangodiv{
+	height: 50px;
+	background-color: rgb(51, 51, 51, 90);
+
+}
+.imgfandango{
+	height: 30px;
+	width: 30px;
+	margin: 5px;
+}
+
+.header1{
+	color: powderblue;
+	float: left;
+
+
+}
+
+
+.ul2{
+	text-decoration: none;
+}
+
+.li2{
+	list-style-type: none;
+	color: white;
+	float: right;
+	margin: 5px;
+	position: relative;
+	margin-right: 20px;
+}
+.li2 a{
+	color: white;
+}
+
+
+.dropdown{
+	position: relative;
+	display: inline-block;
+
+}
+.dropdown-content{
+ 	display: none;
+ 	position: absolute;
+ 	background-color: #grey;
+ 	min-width: 150px;
+ 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 12px 16px;
+}
+.dropdown-content a{
+	color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-content{
+	display: block;
+
+}
+
+   /*3rd div*/
+
+.div3{
+	height: 45px;
+	background-color: grey;
+}
+.header2{
+	color: white;
+	float: left;
+
+}
+.img1{
+	height: 300px;
+	width: 150px;
+	/*margin-left: 50px;*/
+}
+.img1:hover{
+	display: block;
+	border:2px solid blue;
+}
+
+		/*big image div*/
+
+.img2{
+	max-height: 450px;
+	width: 100%;
+	opacity: 0.6;
+    filter: alpha(opacity=50);
+}
+
+.siximagediv{
+	height: 400px;
+	width: 100%;
+	background-color: white;
+}
+
+
+		/*Table  images Div*/
+
+.img3{
+	height: 200px;
+	width: 200px;
+}
+
+table, th, td{
+		border: none;
+		border-collapse: collapse;
+}
+th{
+	text-align: center;
+}
+td{
+	text-align: left;
+}
+
+		/*-----follo us div*/
+
+.followdiv{
+	background-color: #B3ACAC;
+	height: 140px;
+	padding: 20px;
+}
+.btn{
+	background-color: orange;
+	color: white;
+	margin-left: 5px;
+	height: 30px;
+	width: 80px;
+
+}
+.img4{
+	height: 30px;
+	width: 30px;
+}
+.divpara{
+	height: 100px;
+	width: 300px;
+/*	border: 2px solid green;
+*/	float: right;
+	margin-right: 50px;
+	margin-top: -90px;
+
+}
+
+
+
